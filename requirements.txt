@@ -43,7 +43,7 @@ humanize==0.5.1
 hurry.filesize==0.9
 idna==2.8
 itsdangerous==1.1.0
-Jinja2==2.10
+Jinja2==2.11.3
 jmespath==0.9.3
 jsonschema==2.6.0
 kombu==4.3.0
