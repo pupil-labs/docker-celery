@@ -3,7 +3,7 @@ amqp==2.4.1
 aniso8601==4.1.0
 argh==0.26.2
 asyncore-wsgi==0.0.9
-Babel==2.6.0
+Babel==2.9.1
 bcrypt==3.1.6
 billiard==3.6.0.0
 boto3==1.9.93
